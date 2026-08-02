@@ -1,26 +1,83 @@
-# 💫 About Me:
-# Hi there, I'm Ajay 👋  
-<br><br>
-🌍 Based in Bhopal, India  <br>
-🎓 Currently pursuing my **Master’s degree**  <br>
-💼 Actively seeking **Job/Internship opportunities** in **Frontend  Development**   <br>
-⚡ Fun fact: I’m a classic nerd who loves code, chess, and problem-solving!  <br>
-🎮 Hobbies: “In my free time, I play netball (state/national level), chess, and enjoy reading books.” 
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=250&section=header&text=Ajay%20Gurjar&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AWS%20%7C%20Docker&descAlignY=75&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Software+Engineer+Intern;M.Pharmacy+Student+%E2%86%92+Self-Taught+Developer;Open+to+Full-Time+Opportunities)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajayygurjar&color=6366f1&style=flat&label=Profile+Views)
+
+</div>
+
+# 💫 About Me:
+🌍 Based in Bhopal, India
+🎓 Pursuing my **M.Pharmacy**, but building my career as a **Full Stack Developer (MERN)**
+💼 **Software Engineer Intern**, working on full-stack feature development in an agile team
+🚀 Open to **full-time Full Stack Developer** opportunities
+⚡ Fun fact: I'm a classic nerd who loves code, chess, and problem-solving!
+🏐 Hobbies: National/State-level **netball player & team captain** (2 National + 7 State Championships, 4 State titles), chess, and reading
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajayygurjar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajay161651@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayygurjar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajay161651@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ajayygurjar)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+**Languages**
+![](https://skillicons.dev/icons?i=js,ts,html,css)
+
+**Frontend**
+![](https://skillicons.dev/icons?i=react,redux,vite,tailwind,bootstrap)
+
+**Backend**
+![](https://skillicons.dev/icons?i=nodejs,express)
+
+**Database & Cloud**
+![](https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker)
+
+**Tools**
+![](https://skillicons.dev/icons?i=git,github,githubactions,postman,npm,vscode,netlify)
+
+## 🧠 Core Skills:
+Beyond the languages/frameworks above, from my day-to-day work and coursework:
+- 🔐 **Role-Based Access Control (RBAC)** & **JWT Authentication**
+- 🏗️ **MVC Architecture** & **RESTful API Design**
+- ☁️ **AWS**: EC2, S3, IAM, ECR, RDS
+- 📐 **Data Structures & Algorithms**, Database Design & Normalization
+- 🔄 Git/GitHub workflows, Agile/Scrum, Code Reviews, CI/CD-oriented shipping
+
+# 🛠️ Featured Projects:
+
+**Shoppy — Full-Stack E-commerce Platform**
+Dual-interface architecture (Admin Dashboard + Customer storefront) with Firebase Realtime Database sync, Firebase Auth, and Redux Toolkit for cart/checkout state.
+`React` `Redux Toolkit` `Firebase` `Bootstrap` `Axios`
+[Live](https://shoppy-user.netlify.app) · [GitHub](https://github.com/ajayygurjar/Shoppy_User)
+
+**ChroniCare — Healthcare Management Platform**
+Role-based dashboards for patients & doctors, appointment booking with real-time availability, and a digital medical records/prescription module.
+`React` `Redux Toolkit` `Firebase` `Bootstrap` `Vite`
+[Live](https://chronicare-ffd95.web.app) · [GitHub](https://github.com/ajayygurjar/ChroniCare)
+
+**Expense Tracker — Financial Management App**
+Full-stack finance app with JWT auth, MVC architecture, a normalized MySQL schema, and server-side pagination for large datasets.
+`React` `Node.js` `Express` `MySQL`
+[GitHub](https://github.com/ajayygurjar/Expense_Tracker)
+
+# 📜 Certifications:
+- Frontend Development — Sharpener.tech (React.js, Redux, State Management, Firebase)
+- Backend Development — Sharpener.tech *(in progress)* (Node.js, Express.js, RESTful APIs, Database Management)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajayygurjar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ajayygurjar&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayygurjar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajayygurjar&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🐍 Contribution Snake:
+![Snake animation](https://raw.githubusercontent.com/ajayygurjar/ajayygurjar/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 # 🤗 Thanks for the visit
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d?width=150)
